@@ -6,3 +6,5 @@ The carrer that i found most interesting was software engineering mostly because
 #August 22 2023:tutle graphic 2.3
 
 #August 22 2023:turtle graphic 2.5
+
+#august 24 2023:turtle graphic 2.8
