@@ -34,3 +34,7 @@ september 11th 2023:turtle graphic 2.12
 september 12th 2023:turtle graphic 2.12
 
 september 13th 2023:turtle graphic 2.13
+
+september 14th 2023:turtle graphic 2.13
+
+september 15th 2023:turtle graphic 2.13
