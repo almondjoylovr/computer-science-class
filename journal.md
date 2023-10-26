@@ -92,3 +92,29 @@ october 1th  2023:turtle graphic 2.16
 october 12th  2023:turtle graphic 2.16
 
 october 13th 2023:turtle graphic 2.16
+
+october 14th 2023:turtle graphic 2.16
+
+october 15th 2023:turtle graphic 2.16
+
+october 16th 2023:turtle graphic 2.16
+
+october 17th 2023:turtle graphic 2.16
+
+october 18th 2023:turtle graphic 2.16
+
+october 19th 2023:turtle graphic 2.16
+
+october 20th 2023:turtle graphic 2.16
+
+october 21st 2023:turtle graphic 2.16
+
+october 22nd 2023:turtle graphic 2.16
+
+october 23rd 2023:turtle graphic 2.16
+
+october 24th 2023:turtle graphic 2.16
+
+october 25th 2023:turtle graphic 2.16
+
+october 26th 2023:turtle graphic 2.16
