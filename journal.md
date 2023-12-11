@@ -118,3 +118,95 @@ october 24th 2023:turtle graphic 2.16
 october 25th 2023:turtle graphic 2.16
 
 october 26th 2023:turtle graphic 2.16
+
+october 27th 2023:turtle graphic 2.16
+
+october 28th 2023:turtle graphic 2.16
+
+october 29th 2023:turtle graphic 2.16
+
+october 30th 2023:turtle graphic 2.16
+
+october 31th 2023:turtle graphic 2.16
+
+November 1st 2023:turtle graphic 2.16
+
+November 2nd 2023:turtle graphic 2.16
+
+November 3rd 2023:turtle graphic 2.16
+
+November 4th2023:turtle graphic 2.16
+
+November 5th 2023:turtle graphic 2.16
+
+November 6th 2023:turtle graphic 2.16
+
+November 7th 2023:turtle graphic 2.16
+
+November 8th 2023:turtle graphic 2.16
+
+November 9th 2023:turtle graphic 2.16
+
+November 10th 2023:turtle graphic 2.16
+
+November 11th 2023:turtle graphic 2.16
+
+November 12th 2023:turtle graphic 2.16
+
+November 13th 2023:turtle graphic 2.16
+
+November 14th 2023:turtle graphic 2.16
+
+November 15th 2023:turtle graphic 2.16
+
+November 16th 2023:turtle graphic 2.16
+
+November 17th 2023:turtle graphic 2.16
+
+November 18th 2023:turtle graphic 2.16
+
+November 19th 2023:turtle graphic 2.16
+
+November 20th 2023:turtle graphic 2.16
+
+November 21st 2023:turtle graphic 2.16
+
+November 22nd 2023:turtle graphic 2.16
+
+November 23rd 2023:turtle graphic 2.16
+
+November 24th 2023:turtle graphic 2.16
+
+November 25th 2023:turtle graphic 2.16
+
+November 26th 2023:turtle graphic 2.16
+
+November 27th 2023:turtle graphic 2.16
+
+November 28th 2023:turtle graphic 2.16
+
+November 29th 2023:turtle graphic 2.16
+
+November 30th 2023:turtle graphic 2.16
+
+December 1st 2023:turtle graphic 2.16
+
+December 2nd 2023:turtle graphic 2.16
+
+December 3rd 2023:turtle graphic 2.16
+
+December 4th 2023:turtle graphic 2.16
+
+December 5th 2023:turtle graphic 2.16
+
+December 6th 2023:turtle graphic 2.16
+
+December 7th 2023:turtle graphic 2.16
+
+December 8th 2023:turtle graphic 2.16
+
+December 9th 2023:turtle graphic 2.16
+
+December 10th 2023:turtle graphic 2.17
+
+December 11th 2023:turtle graphic 2.18
